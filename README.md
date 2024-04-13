@@ -25,7 +25,7 @@ Deepfake_detection_using_deep_learning
    - This directory consists of the step by step process of creating and training a deepfake detection model using our approach.
 
 
-## 5. Our Results
+## 3. Our Results
 
 | Model Name | No of videos | No of Frames | Accuracy |
 |------------|--------------|--------------|----------|
@@ -37,7 +37,7 @@ Deepfake_detection_using_deep_learning
 |model_93_acc_100_frames_final_data.pt| 6000 | 100 | 93.58794|
 
 
-## 8. We welcome Open Source Contribution. 
+## 4. We welcome Open Source Contribution. 
 ### Below are the some changes that can be applied to the project. New Ideas will be appreciated.
 - [ ] Deploying the applications in free cloud 
 - [ ] Creating open source API for detection
